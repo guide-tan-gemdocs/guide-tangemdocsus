@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /
+
+Allow: /en/stable
+Allow: /en/latest
+Allow: /en/develop
+
+Sitemap: https://help-trustwallet.readthedocs.io/en/latest/sitemap-index.xml
